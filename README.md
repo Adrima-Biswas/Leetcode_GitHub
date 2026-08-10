@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1089-duplicate-zeros) |
 ## Math

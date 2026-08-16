@@ -6,9 +6,9 @@ class Solution {
                 stack.push(s.charAt(i));
             }else if(stack.peek() == s.charAt(i)){
                 stack.push(s.charAt(i));
-            }else if(stack.peek() == Character.toLowerCase(s.charAt(i))){
+            }else if(stack.peek() == (char)(s.charAt(i) + 32)){
                 stack.pop();
-            }else if(stack.peek() == Character.toUpperCase(s.charAt(i))){
+            }else if(stack.peek() == (char)(s.charAt(i) - 32)){
                 stack.pop();
             }else if(!stack.isEmpty()){
                 stack.push(s.charAt(i));

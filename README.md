@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0189-rotate-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |

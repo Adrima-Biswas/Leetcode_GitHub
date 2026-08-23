@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 | [1089-duplicate-zeros](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/2390-removing-stars-from-a-string) |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

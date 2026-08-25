@@ -4,18 +4,15 @@ class Solution {
         int[] stack = new int[temperatures.length];
         int top = -1;
         for(int i = 0; i < temperatures.length; i++){
-
-            while(top >= 0 && temperatures[stack[top]] < temperatures[i] ){ // Checking to maintain Monotonic stack
-                // pop 
-                map.put(stack[top], i - stack[top] );
+            while(top >= 0 && temperatures[stack[top]] < temperatures[i]){
+                map.put(stack[top], i - stack[top]);
                 top--;
             }
-            // Now u have to push the data
             top++;
-            stack[top] = i;         
+            stack[top] = i;
         }
 
-        while(top >= 0){ // for remaining data into stack
+        while(top>= 0){
             map.put(stack[top--], 0);
         }
 

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0739-daily-temperatures) |
 | [1089-duplicate-zeros](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1089-duplicate-zeros) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

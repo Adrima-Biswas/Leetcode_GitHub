@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0739-daily-temperatures) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Adrima-Biswas/Leetcode_GitHub/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
